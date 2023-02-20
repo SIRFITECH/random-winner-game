@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "RandomWinnerGame": {
+      "address": "0x0C48BE8Df0Fe85D6Dc94D1c6e1e7092d2D037A66",
+      "startBlock": 7877793
+    }
+  }
+}
